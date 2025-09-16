@@ -1,3 +1,5 @@
+# Relationen
+
 Q: Definition Relation
 A: nicht eindeutige Zuordnung: 1. Größe $\longmapsto$ mehrere Werte
 <!--ID: 1757486539409-->

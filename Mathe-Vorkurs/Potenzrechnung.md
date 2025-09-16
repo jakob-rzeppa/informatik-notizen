@@ -1,3 +1,5 @@
+# Potenzrechnung
+
 ## Rechenregeln
 
 #### Gleiche Basis
