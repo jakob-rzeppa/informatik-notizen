@@ -19,3 +19,9 @@ $$
 $$
 \sqrt[m]{\sqrt[n]{a}} = \sqrt[n \cdot m]{a}
 $$
+
+## Mathematische Sprache
+
+Q: "Wurzel ziehen" in mathematischer Sprache
+A: Radizieren
+<!--ID: 1758094848961-->
