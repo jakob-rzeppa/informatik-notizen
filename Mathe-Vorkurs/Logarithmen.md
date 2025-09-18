@@ -15,6 +15,8 @@ $$
 \log_a(p) = x
 $$
 
+Für die Basis des Logarithmus gilt: $a \geq 0$ und $a \neq 1$
+
 ## Rechenregeln
 
 1. $\log_a(x \cdot y) = \log_a(x) + \log_a(y)$
@@ -40,6 +42,10 @@ A: $\log_a(x) = \frac{\log_{b}(x)}{\log_{b}(a)}$ mit der gegebenen Basis $a$ und
 Q: $\log_a(1) =$ ?
 A: Immer $\log_a(1) = 0$
 <!--ID: 1758095701348-->
+
+Q: $\log_a(a) =$ ?
+A: Immer $\log_a(a) = 1$
+<!--ID: 1758195756653-->
 
 ## Benennungen
 
