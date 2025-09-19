@@ -46,6 +46,16 @@ $$
 c^2 = a^2 + b^2 - 2ab \cdot \cos(\gamma)
 $$
 
+## Additionstheorem
+
+$$
+\sin(\alpha \pm \beta) = \sin(\alpha) \cos(\beta) \pm \cos(\alpha) \sin(\beta)
+$$
+
+$$
+\sin(\alpha \pm \beta) = \cos(\alpha) \cos(\beta) \mp \sin(\alpha) \sin(\beta)
+$$
+
 ## Bogenmaß
 
 Das Bogenmaß ist eine andere Möglichkeit einen Winkel zu schreiben. Es zeigt einen Winkel anhand des Umfangs des Einheitskreises ($r = 1$) bis zu einem bestimmten Winkel.
