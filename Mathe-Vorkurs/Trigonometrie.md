@@ -56,6 +56,10 @@ $$
 \cos(\alpha \pm \beta) = \cos(\alpha) \cos(\beta) \mp \sin(\alpha) \sin(\beta)
 $$
 
+$$
+\sin^2(\alpha) + \cos^2(\alpha) = 1
+$$
+
 ## Bogenmaß
 
 Das Bogenmaß ist eine andere Möglichkeit einen Winkel zu schreiben. Es zeigt einen Winkel anhand des Umfangs des Einheitskreises ($r = 1$) bis zu einem bestimmten Winkel.
