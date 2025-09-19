@@ -53,7 +53,7 @@ $$
 $$
 
 $$
-\sin(\alpha \pm \beta) = \cos(\alpha) \cos(\beta) \mp \sin(\alpha) \sin(\beta)
+\cos(\alpha \pm \beta) = \cos(\alpha) \cos(\beta) \mp \sin(\alpha) \sin(\beta)
 $$
 
 ## Bogenmaß
