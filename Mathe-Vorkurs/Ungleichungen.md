@@ -56,4 +56,4 @@ $$
 
 ## Lösung von Ungleichungen
 
-Bei der Lösung von Ungleichen handelt es sich um Mengen. Diese können als [[Intervalle]] oder [[Mengen]] angegeben werden.
+Bei der Lösung von Ungleichen handelt es sich um Mengen. Diese können als [[Intervalle]] oder [[Mathe-Vorkurs/Mengen]] angegeben werden.

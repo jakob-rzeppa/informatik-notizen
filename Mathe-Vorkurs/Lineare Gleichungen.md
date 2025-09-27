@@ -57,7 +57,7 @@ Beide Gleichungen werden nach derselben Variablen aufgelöst und die beiden so e
 
 ### Lösungsangabe
 
-Die Lösungsangabe erfolgt in [[Mengen]].
+Die Lösungsangabe erfolgt in [[Mathe-Vorkurs/Mengen]].
 
 Standardangabe:
 $\mathbb{L} = \{-\frac{7}{6}\}$

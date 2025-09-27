@@ -8,7 +8,7 @@ Objekte werden im [[Heap]] gespeichert und deren Referenzvariable im [[Stack]].
 
 Q: Was ist Encapsulation / Kapselung?
 A: Daten und Verhalten werden zu einer Einheit zusammengefasst. Dabei wird klasseneigene Logik von der "Außenwelt" abgeschnitten und nur über eine Schnittstelle erreichbar gemacht.
-<!--ID: 1758641435659-->
+<!--ID: 1758959238140-->
 
 ## Inheritance / Vererbung
 
@@ -18,7 +18,7 @@ Attribute und Methoden können an Sub-Klassen vererbt werden.
 
 Q: Was ist Polymorphie?
 A: Wenn eine Methode eines Objektes aufgerufen wird, wird erst dann bestimmt, welche genau verwendet wird. Demnach kann eine Methode mehrdeutig sein. Wird über Vererbung genutzt. 
-<!--ID: 1758641435660-->
+<!--ID: 1758959238145-->
 
 Mit Polymorphie können Objekte unterschiedlicher Klassen in ein Array zusammengefasst werden, wo auf die Parent-Klasse verwiesen ist. Demnach kann ein Array Car mit den Objekten Audi, VW etc. gefüllt werden.
 
