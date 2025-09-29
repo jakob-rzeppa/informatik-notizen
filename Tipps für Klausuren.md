@@ -1,3 +1,3 @@
 # Tipps für Klausuren
 
-1. Wenn man weiß, dass etwas falsch ist, aber den Fehler nicht findet ist es vorteilhaft zu schreiben, dass man erkennt, dass es einen Fehler gibt. Für die Erkenntnis gibt es noch Punkte.
+1. Wenn man weiß, dass etwas falsch ist, aber den Fehler nicht findet ist es äußerst vorteilhaft zu schreiben, dass man erkennt, dass es einen Fehler gibt. Für die Erkenntnis gibt es noch Punkte.
