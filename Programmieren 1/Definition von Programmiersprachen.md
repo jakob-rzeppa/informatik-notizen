@@ -6,6 +6,8 @@ Q: Was ist die Lexik?
 A: Die Lexik sind die Grundbausteine der Programmiersprache. Z. B. Schlüsselwörter, Zeichen und Bezeichner. 
 <!--ID: 1759127874594-->
 
+Die Lexik kann auch [[kontextfreie Grammatik]] genannt werden.
+
 ## Syntax
 
 Q: Was ist die Syntax?

@@ -13,7 +13,7 @@ Wie in [[Zahlensysteme]] beschrieben.
 
 ## Big- und Little-Endian Speicherung
 
-Big- und Little-Endian beschreiben die Reihenfolge, in der Bytes im Speicher abgelegt werden. Also bei einem 32-Bit Integer mit 4 Bytes welcher Byte zuerst liegt.
+Big- und Little-Endian beschreiben die Reihenfolge, in der Bytes im Speicher abgelegt werden. Also bei einem 32-Bit Integer mit 4 Bytes welcher Byte zuerst in Speicher liegt.
 
 ### Little-Endian
 
@@ -68,10 +68,10 @@ Wertebereich bei 8-Bits: $[- (2^{7} - 1); 2^{7} - 1]$
 
 - Die Null wird positiv und negativ dargestellt: "verschwendeter" Platz und *Probleme bei Gleichheitstests*.
 
-### Einerkompliment
+### Einerkomplement
 
-Q: Bildung des Einerkompliment
-A: Eine negative Zahl wird binär durch das bitweise Kompliment (Umdrehen von 1 und 0) der entsprechenden positiven Zahl dargestellt.
+Q: Bildung des Einerkomplement
+A: Eine negative Zahl wird binär durch das bitweise Komplement (Umdrehen von 1 und 0) der entsprechenden positiven Zahl dargestellt.
 <!--ID: 1759171198429-->
 
 
@@ -90,12 +90,12 @@ Wertebereich bei 8-Bits: $[- (2^{7} - 1); 2^{7} - 1]$
 - Die Null wird positiv und negativ dargestellt: "verschwendeter" Platz und *Probleme bei Gleichheitstests*.
 - Arithmetische Operationen, die das Vorzeichen wechseln müssen gesondert betrachtet werden.
 
-### Zweierkompliment
+### Zweierkomplement
 
 > Wird normalerweise genutzt.
 
-Q: Bildung des Zweierkompliment
-A: Zuerst wird das Einerkompliment gebildet. Die entstehende Binärzahl (als positive Zahl gesehen) wird um eins erhöht.
+Q: Bildung des Zweierkomplement
+A: Zuerst wird das Einerkomplement gebildet. Die entstehende Binärzahl (als positive Zahl gesehen) wird um eins erhöht.
 <!--ID: 1759169795306-->
 
 asymmetrischer  Wertebereich bei 8-Bits: $[- (2^{7}); 2^{7} - 1]$
@@ -112,6 +112,6 @@ asymmetrischer  Wertebereich bei 8-Bits: $[- (2^{7}); 2^{7} - 1]$
 
 Um Zahlen zu addieren kann man "normal" Schriftlich addieren. Dabei darf man nicht vergessen, dass weitergezogene Werte auch in Binär sein müssen.
 
-Subtraktion ist, wenn das Zweierkompliment verwendet wird, genau wie die Addition, nur dass ein Wert negativ ist.
+Subtraktion ist, wenn das Zweierkomplement verwendet wird, genau wie die Addition, nur dass ein Wert negativ ist.
 
 > Falls man unsicher ist kann man auch immer in Dezimal und zurück umwandeln.
