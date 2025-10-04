@@ -1,4 +1,4 @@
-# Darstellung von Zahlen
+# Darstellung von ganzen Zahlen
 
 ## positive Zahlen
 

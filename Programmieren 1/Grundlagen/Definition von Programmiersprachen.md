@@ -11,7 +11,7 @@ Die Lexik kann auch [[kontextfreie Grammatik]] genannt werden.
 ## Syntax
 
 Q: Was ist die Syntax?
-A: Die Syntax ist die kontextfreie Grammatik. Sie beschreibt, wie aus den Grundbausteinen (Lexik) Programme gebaut werden können. Z. B. dass nach jeder Zeile ein Semikolon kommen muss.
+A: Die Syntax ist die [[kontextfreie Grammatik]]. Sie beschreibt, wie aus den Grundbausteinen (Lexik) Programme gebaut werden können. Z. B. dass nach jeder Zeile ein Semikolon kommen muss.
 <!--ID: 1759128187765-->
 
 Q: Was ist syntaktische Korrektheit?
