@@ -11,6 +11,8 @@ $$
 (-1)^s \cdot m \cdot b^e
 $$
 
+> Bei einer Fließpunkt-Darstellung kann es sein, dass manche Zahlen nicht genau dargestellt werden können und daher es kleine Fehler geben (wie 10,0000005f, wenn 10,0f gewünscht ist).
+
 ## Typen in Java
 
 ### Float
