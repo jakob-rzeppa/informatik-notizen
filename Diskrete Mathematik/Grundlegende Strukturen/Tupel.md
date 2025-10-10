@@ -1,7 +1,7 @@
 # Tupel
 
 Q: Was ist ein Tupel?
-A: Ein Tupel ist eine Art von [[Kollektionen|Kollektion]], wo die Reihenfolge und ob die Komponenten mehrfach vorkommen relevant ist.
+A: Ein Tupel ist eine Art von [Kollektion](Kollektionen.md), wo die Reihenfolge und ob die Komponenten mehrfach vorkommen relevant ist.
 <!--ID: 1758976670717-->
 
 Q: Bezeichnung der Objekte eines Tupels
@@ -18,7 +18,7 @@ $$
 [1,2,3] \neq [2,1,3]
 $$
 
-Darin unterscheiden sie sich von [[Mengen]], bei welchen die Reihenfolge und Mehrfachnennungen irrelevant sind:
+Darin unterscheiden sie sich von [Mengen](Mengen.md), bei welchen die Reihenfolge und Mehrfachnennungen irrelevant sind:
 
 $$
 \{1,2,3\} = \{2,1,3\}

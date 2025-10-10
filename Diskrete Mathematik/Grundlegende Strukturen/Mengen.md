@@ -1,7 +1,7 @@
 # Mengen
 
 Q: Was ist eine Menge?
-A: Eine [[Kollektionen|Kollektion]], wo weder die Reihenfolge, noch Mehrfachnennungen relevant sind
+A: Eine [Kollektion](Kollektionen.md), wo weder die Reihenfolge, noch Mehrfachnennungen relevant sind
 <!--ID: 1758976278292-->
 
 Q: Bezeichnung der Objekte in einer Menge

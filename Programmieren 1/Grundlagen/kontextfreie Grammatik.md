@@ -1,6 +1,6 @@
 # kontextfreie Grammatik
 
-Grammatik beschreibt, wie eine Sprache aufgebaut werden darf. Über sie wird eine [[Sprache]] erschaffen.
+Grammatik beschreibt, wie eine Sprache aufgebaut werden darf. Über sie wird eine [Sprache](Sprache.md) erschaffen.
 
 ## Bestandteile der Grammatik
 

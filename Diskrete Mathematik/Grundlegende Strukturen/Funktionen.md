@@ -1,6 +1,6 @@
 # Funktionen
 
-Funktionen sind eine wichtige Art von [[Modellbildung|Modellen]]. Man kann sie sich wie Eingabe-Ausgabe-Beziehungen vorstellen.
+Funktionen sind eine wichtige Art von [Modellen](Modellbildung.md). Man kann sie sich wie Eingabe-Ausgabe-Beziehungen vorstellen.
 
 ```mermaid
 flowchart LR

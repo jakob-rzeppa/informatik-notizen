@@ -1,6 +1,6 @@
 # Grammatik von Java
 
-Die Grammatik von Java ist eine [[kontextfreie Grammatik]].
+Die Grammatik von Java ist eine [kontextfreie Grammatik](kontextfreie%20Grammatik.md).
  
 Nichtterminalsymbole von Java:
 
@@ -23,4 +23,4 @@ Statement:
 	...
 ```
 
-Durch das Ersetzen der Nichtterminalsymbole durch weitere Nichtterminalsymbole (Block -> BlockStatements -> Statement -> WhileStatement etc.) bis am Ende zu den Terminalsymbolen ("while (i < 7) { ... }") entsteht der Java Code bzw. die [[Sprache]] Java. Das Startsymbol ist der Block.
+Durch das Ersetzen der Nichtterminalsymbole durch weitere Nichtterminalsymbole (Block -> BlockStatements -> Statement -> WhileStatement etc.) bis am Ende zu den Terminalsymbolen ("while (i < 7) { ... }") entsteht der Java Code bzw. die [Sprache](Sprache.md) Java. Das Startsymbol ist der Block.

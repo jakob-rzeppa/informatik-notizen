@@ -6,7 +6,7 @@ $$
 \sqrt[n]{a^m} = a^{\frac{m}{n}}
 $$
 
-Lassen sich über die [[Potenzrechnung]] ableiten:
+Lassen sich über die [Potenzrechnung](Potenzrechnung.md) ableiten:
 
 $$
 \sqrt[n]{a \cdot b} = \sqrt[n]{a} \cdot \sqrt[n]{b}

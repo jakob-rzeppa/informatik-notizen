@@ -1,7 +1,7 @@
 #  Modellbildung
 
 Q: Was ist Modellbildung?
-A: Bei der Modellbildung wird die Realität auf das Wesentliche [[Abstraktion|abstrahiert]].
+A: Bei der Modellbildung wird die Realität auf das Wesentliche [abstrahiert](Abstraktion.md).
 <!--ID: 1758974568039-->
 
 Die wesentlichen Aspekte werden beachtet und Vollständigkeit vernachlässigt.

@@ -28,7 +28,7 @@ long l = 100000l;
 
 ## Fließkomma-Darstellungen
 
-[[Fließpunkt-Darstellung|double und float]]
+[double und float](Fließpunkt-Darstellung.md)
 
 ```java
 float f = 1.0f;

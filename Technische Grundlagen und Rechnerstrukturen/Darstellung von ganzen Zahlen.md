@@ -2,7 +2,7 @@
 
 ## positive Zahlen
 
-Wie in [[Zahlensysteme]] beschrieben.
+Wie in [Zahlensysteme](Zahlensysteme.md) beschrieben.
 
 | Bytes | Bits | Wertebereich | Datentyp |
 | - | - | - | - |

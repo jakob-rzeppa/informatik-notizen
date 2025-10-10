@@ -18,7 +18,7 @@ $$
 y = \frac{2}{3}x
 $$
 
-2. Erstellen einer [[Mathe-Vorkurs/Funktionen|Funktion]]
+2. Erstellen einer [Funktion](Funktionen.md)
 
 $$
 f: x \mapsto \frac{2}{3}x

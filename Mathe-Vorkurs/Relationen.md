@@ -8,4 +8,4 @@ A: nicht eindeutige Zuordnung: 1. Größe $\longmapsto$ mehrere Werte
 
 Zahl $\longmapsto$ Wurzel dieser Zahl (da positives / negatives Ergebnis)
 
-Bei der Wurzelfunktion wird explizit nur der positive Wert genommen um eine [[Mathe-Vorkurs/Funktionen|Funktion]] zu erschaffen.
+Bei der Wurzelfunktion wird explizit nur der positive Wert genommen um eine [Funktion](Funktionen.md) zu erschaffen.

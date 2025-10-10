@@ -1,6 +1,6 @@
 # Kollektionen
 
-Bei der [[Modellbildung]] können mehrere Modelle in Kollektionen zusammengefasst werden.
+Bei der [Modellbildung](Modellbildung.md) können mehrere Modelle in Kollektionen zusammengefasst werden.
 
 ## Formen von Kollektionen
 
@@ -11,14 +11,14 @@ Dabei können unterschiedliche Formen von Kollektionen genutzt werden. Diese hä
 
 |  | Reihenfolge ist relevant | Reihenfolge ist nicht relevant |
 |-:-|-:-|-:-|
-| Mehrfachvorkommen ist relevant | [[Tupel]] |  |
-| Mehrfachvorkommen ist nicht relevant |  | [[Mengen]] |
+| Mehrfachvorkommen ist relevant | [Tupel](Tupel.md) |  |
+| Mehrfachvorkommen ist nicht relevant |  | [Mengen](Mengen.md) |
 
 ## Genestete Kollektionen
 
 Kollektionen können ineinander genestet werden:
 
-Ein geeignetes Modell für einen Funktionsgraphen ist die [[Mengen|Menge]] von 2-Tupeln. Jedes [[Tupel]] beschreibt einen Punkt des Graphen:
+Ein geeignetes Modell für einen Funktionsgraphen ist die [Menge](Mengen.md) von 2-Tupeln. Jedes [Tupel](Tupel.md) beschreibt einen Punkt des Graphen:
 
 $$
 [1,2] \Rightarrow x = 1; y = 2

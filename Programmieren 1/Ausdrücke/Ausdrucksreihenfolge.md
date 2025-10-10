@@ -1,6 +1,6 @@
 # Ausdrucksreihenfolge
 
-Alle [[Ausdrücke]] gleicher Priorität werden von *links nach rechts* ausgeführt.
+Alle [Ausdrücke](Ausdrücke.md) gleicher Priorität werden von *links nach rechts* ausgeführt.
 
 ```java
 int i = 2;

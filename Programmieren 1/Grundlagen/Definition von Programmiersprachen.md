@@ -6,12 +6,12 @@ Q: Was ist die Lexik?
 A: Die Lexik beschreibt die Grundbausteine der Programmiersprache. Z. B. Schlüsselwörter, Zeichen und Bezeichner.
 <!--ID: 1759127874594-->
 
-Die Lexik kann auch [[kontextfreie Grammatik]] genannt werden.
+Die Lexik kann auch [kontextfreie Grammatik](kontextfreie%20Grammatik.md) genannt werden.
 
 ## Syntax
 
 Q: Was ist die Syntax?
-A: Die Syntax ist die [[kontextfreie Grammatik]]. Sie beschreibt, wie aus den Grundbausteinen (Lexik) Programme gebaut werden können. Z. B. dass nach jeder Zeile ein Semikolon kommen muss.
+A: Die Syntax ist die [kontextfreie Grammatik](kontextfreie%20Grammatik.md). Sie beschreibt, wie aus den Grundbausteinen (Lexik) Programme gebaut werden können. Z. B. dass nach jeder Zeile ein Semikolon kommen muss.
 <!--ID: 1759128187765-->
 
 Q: Was ist syntaktische Korrektheit?

@@ -6,7 +6,7 @@ Q: Definition Funktion
 A: eindeutige Zuordnung: 1. Größe $\longmapsto$ 2. Größe
 <!--ID: 1757486539405-->
 
-Wenn es sich um mehrere Werte als 2. Größe handelt ist es eine [[Relationen]].
+Wenn es sich um mehrere Werte als 2. Größe handelt ist es eine [Relationen](Relationen.md).
 
 ###### Beispiel
 

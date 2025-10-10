@@ -2,7 +2,7 @@
 
 > "Ein Objekt ist die Instanz der Klasse"
 
-Objekte werden im [[Heap]] gespeichert und deren Referenzvariable im [[Stack]].
+Objekte werden im [Heap](Heap.md) gespeichert und deren Referenzvariable im [Stack](Stack.md).
 
 ## Encapsulation / Kapselung
 

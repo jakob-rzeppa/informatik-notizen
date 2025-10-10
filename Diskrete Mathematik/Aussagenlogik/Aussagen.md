@@ -22,7 +22,7 @@ A: Aussageformen sind Sätze oder Ausdrücke, die variable Elemente enthalten un
 
 ### Aussageformen als Funktion
 
-Aussageformen kann man sich auch als [[Diskrete Mathematik/Grundlegende Strukturen/Funktionen|Funktion]] vorstellen, die Variablen in Aussagen mit Wahrheitswerten umwandeln:
+Aussageformen kann man sich auch als [Funktion](../Grundlegende%20Strukturen/Funktionen.md) vorstellen, die Variablen in Aussagen mit Wahrheitswerten umwandeln:
 
 ```setlx
 is_greater_than_one := procedure(x) { return x > 1; };
@@ -33,4 +33,4 @@ is_greater_than_one(2);
 
 ## Aussagen / Aussageformen als Modelle
 
-Aussagen und Aussageformen sind keine Gegenstände der Realität. Sie sind lediglich [[Modellbildung|Modelle]].
+Aussagen und Aussageformen sind keine Gegenstände der Realität. Sie sind lediglich [Modelle](../Grundlegende%20Strukturen/Modellbildung.md).

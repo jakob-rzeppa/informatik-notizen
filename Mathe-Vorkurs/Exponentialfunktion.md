@@ -17,9 +17,9 @@ wobei die Basis $a$ positiv sein muss und der Anfangswert $c \neq 0$.
 
 ### Wachstumsfaktor
 
-Ist der Wachstumsfaktor größer als 1 ist die Funktion [[Monotonieverhalten|streng monoton Steigend]].
+Ist der Wachstumsfaktor größer als 1 ist die Funktion [streng monoton Steigend](Monotonieverhalten.md).
 
-Ist der Wachstumsfaktor kleiner als 1 ist die Funktion [[Monotonieverhalten|streng monoton Steigend.]]
+Ist der Wachstumsfaktor kleiner als 1 ist die Funktion [streng monoton Steigend.](Monotonieverhalten.md)
 
 ## Halbwertszeiten
 
