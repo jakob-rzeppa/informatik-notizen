@@ -13,7 +13,7 @@ A: covering a broad number of functions or items all belonging to a single commo
 <!--ID: 1758956270478-->
 
 
-Q: to facilitare
+Q: to facilitate
 A: to make something possible / easier
 <!--ID: 1758956270479-->
 

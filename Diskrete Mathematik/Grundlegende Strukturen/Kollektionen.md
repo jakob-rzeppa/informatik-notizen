@@ -1,6 +1,6 @@
 # Kollektionen
 
-Bei der [Modellbildung](Modellbildung.md) können mehrere Modelle in Kollektionen zusammengefasst werden.
+Kollektionen sind eine Art von [Modellen](Modellbildung.md). Mit ihnen können mehrere Objekte (andere Modelle) zusammengefasst werden.
 
 ## Formen von Kollektionen
 
