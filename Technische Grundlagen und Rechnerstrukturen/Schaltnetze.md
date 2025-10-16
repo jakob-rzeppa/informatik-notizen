@@ -1,6 +1,6 @@
 # Schaltnetze
 
-Ein Schaltnetz ist ein Netz aus elementaren [Gattern](Gattern.md). Es ist die technische Realisierung einer [Schaltfunktion](Schaltfunktionen.md).
+Ein Schaltnetz ist ein Netz aus elementaren [Gatter](Gatter.md). Es ist die technische Realisierung einer [Schaltfunktion](Schaltfunktionen.md).
 
 Die Darstellung als Schaltnetzes ist *nicht eindeutig*. Es gibt mehrere Darstellungen als Schaltnetz für eine Schaltfunktion
 
